@@ -1,0 +1,19 @@
+* {
+  background-color: lightgray;
+  color: gray;
+}
+#main-title {
+  background-color: pink;
+  color: maroon;
+}
+
+.nav-link {
+  color: green;
+  background-color: lightyellow;
+}
+
+
+.color{
+  color: rgb(121, 121, 35);
+  background-color: lightyellow;
+}
